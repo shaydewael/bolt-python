@@ -93,6 +93,15 @@ $ FLASK_APP=app.py FLASK_ENV=development flask run -p 3000
 $ ngrok http 3000 --subdomain {your-domain}
 ```
 
+### Generating Documentation
+
+The documentation is built using [Jekyll](https://jekyllrb.com/) and hosted with GitHub Pages.
+The source files are contained in the `docs` directory. They are broken up into the `_basic`, `_advanced`, and `_tutorials` directories depending on content's nature.
+
+All documentation contains [front matter](https://jekyllrb.com/docs/front-matter/) that indicates the section's title, slug (for header), respective language, and if it's not a tutorial it contains the order it should appear within it's respective section (basic or advanced).
+
+To build the docs locally, you should [install Jekyll](https://jekyllrb.com/docs/installation/) then run `bundle exec jekyll serve`.
+
 ### Releasing
 
 #### test.pypi.org deployment

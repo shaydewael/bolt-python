@@ -10,7 +10,7 @@ This project is **still in alpha**, and may have bugs in it. Also, the public AP
 [![pypi package][pypi-image]][pypi-url]
 [![Build Status][travis-image]][travis-url]
 
-A Python framework to build Slack apps in a flash with the latest platform features. Check the [samples](https://github.com/slackapi/bolt-python/tree/main/samples) to know how to use this framework.
+A Python framework to build Slack apps in a flash. Browse the collection of [samples](https://github.com/slackapi/bolt-python/tree/main/samples) for a simple starting point.
 
 ## Setup
 
@@ -22,7 +22,7 @@ pip install slack_bolt
 
 ## First Bolt App (app.py)
 
-Create an app by calling a constructor, which is a top-level export.
+Create an app by calling the constructor, which is a top-level export.
 
 ```python
 import logging
