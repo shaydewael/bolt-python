@@ -10,7 +10,7 @@ assignees: ''
 
 ### The page URLs
 
-* https://slack.dev/bolt-python/
+* https://slack.dev/bolt-py/
 
 ## Requirements
 

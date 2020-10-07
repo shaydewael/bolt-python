@@ -42,6 +42,6 @@ ngrok http 3000
 python3 app.py
 ```
 
-[1]: https://slack.dev/bolt-python/tutorial/getting-started
-[2]: https://slack.dev/bolt-python/
-[3]: https://slack.dev/bolt-python/tutorial/getting-started#setting-up-events
+[1]: https://slack.dev/bolt-py/tutorial/getting-started
+[2]: https://slack.dev/bolt-py/
+[3]: https://slack.dev/bolt-py/tutorial/getting-started#setting-up-events

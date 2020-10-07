@@ -311,10 +311,10 @@ You just built your first [Bolt for Python app](https://github.com/slackapi/bolt
 
 Now that you have a basic app up and running, you can start exploring how to make your Bolt app stand out. Here are some ideas about what to explore next:
 
-* Read through the [Basic concepts](/bolt-python/concepts#basic) to learn about the different methods and features your Bolt app has access to.
+* Read through the [Basic concepts](/bolt-py/concepts#basic) to learn about the different methods and features your Bolt app has access to.
 
-* Explore the different events your bot can listen to with the [`events()` method](/bolt-python/concepts#event-listening). All of the events are listed [on the API site](https://api.slack.com/events).
+* Explore the different events your bot can listen to with the [`events()` method](/bolt-py/concepts#event-listening). All of the events are listed [on the API site](https://api.slack.com/events).
 
-* Bolt allows you to [call Web API methods](/bolt-python/concepts#web-api) with the client attached to your app. There are [over 220 methods](https://api.slack.com/methods) on our API site.
+* Bolt allows you to [call Web API methods](/bolt-py/concepts#web-api) with the client attached to your app. There are [over 220 methods](https://api.slack.com/methods) on our API site.
 
 * Learn more about the different token types [on our API site](https://api.slack.com/docs/token-types). Your app may need different tokens depending on the actions you want it to perform.
